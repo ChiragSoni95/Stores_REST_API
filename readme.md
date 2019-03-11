@@ -1,4 +1,4 @@
-# Stores REST Api
+# Stores REST API
 
 1. Developed a RESTful API to access item and item list as resources from various stores with appropriate user authentication using Flask - JWT.
 2. Deployed API on Heroku for practical usage and tested it using API development in Postman.
